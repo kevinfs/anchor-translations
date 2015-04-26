@@ -6,7 +6,7 @@ return array(
 	'metadata_desc' => 'Gérer les données du site',
 
 	'comment_settings' => 'Commentaires',
-	'theme_settings' => 'Apperence',
+	'theme_settings' => 'Apparence',
 
 	// form fields
 	'sitename' => 'Nom du site ',
